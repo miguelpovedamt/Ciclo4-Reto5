@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot 10 12 21/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.13703703703703704" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot 10 12 21/app/src/main/res/drawable/bluesearch.xml" value="0.13703703703703704" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot 10 12 21/app/src/main/res/drawable/buy.xml" value="0.13703703703703704" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot 10 12 21/app/src/main/res/drawable/ic_launcher_background.xml" value="0.13703703703703704" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot 10 12 21/app/src/main/res/layout/activity_carrito.xml" value="0.1" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot 10 12 21/app/src/main/res/layout/activity_sucursales.xml" value="0.10052083333333334" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot 10 12 21/app/src/main/res/menu/mimnu.xml" value="0.20277777777777778" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot 8 12 21/app/src/main/res/layout/activity_carrito.xml" value="0.67" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot 8 12 21/app/src/main/res/layout/activity_sucursales.xml" value="0.1213768115942029" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot 8 12 21/app/src/main/res/menu/mimnu.xml" value="0.10625" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 3 v2/app/src/main/res/drawable-v24/custonborder.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 3 v2/app/src/main/res/drawable/customborder.xml" value="0.134375" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 3 v2/app/src/main/res/layout/activity_productos.xml" value="0.13496376811594202" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 3 v2/app/src/main/res/layout/activity_sucursales.xml" value="0.13677536231884058" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 3 v2/app/src/main/res/layout/item.xml" value="0.33" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 3 v2/app/src/main/res/layout/item_adapter.xml" value="0.33" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 3 v2/app/src/main/res/layout/producto_pantalla.xml" value="0.22" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 4/app/src/main/res/drawable/buy.xml" value="0.240625" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 4/app/src/main/res/drawable/customborder.xml" value="0.240625" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 4/app/src/main/res/drawable/customborder2.xml" value="0.240625" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 4/app/src/main/res/layout/activity_carrito.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 4/app/src/main/res/layout/activity_main.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 4/app/src/main/res/layout/activity_maps.xml" value="0.12" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 4/app/src/main/res/layout/activity_productos.xml" value="0.16530797101449277" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 4/app/src/main/res/layout/activity_servicios.xml" value="0.1109375" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 4/app/src/main/res/layout/activity_sucursales.xml" value="0.25" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 4/app/src/main/res/layout/activity_web_service.xml" value="0.12364130434782608" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 4/app/src/main/res/layout/fragment_blank.xml" value="0.25" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 4/app/src/main/res/layout/fragment_loading.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 4/app/src/main/res/layout/item.xml" value="0.33" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 4/app/src/main/res/layout/itemproducto.xml" value="0.25" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 4/app/src/main/res/layout/itemsucursal.xml" value="0.33" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 4/app/src/main/res/menu/mimnu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 5/app/src/main/res/drawable/customborder.xml" value="0.15052083333333333" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 5/app/src/main/res/drawable/customborder2.xml" value="0.15052083333333333" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 5/app/src/main/res/layout/activity_carrito.xml" value="0.25" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 5/app/src/main/res/layout/activity_productos.xml" value="0.1490036231884058" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 5/app/src/main/res/layout/activity_sucursales.xml" value="0.12273550724637682" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 5/app/src/main/res/layout/itemcarrito.xml" value="0.33" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 5/app/src/main/res/layout/itemproducto.xml" value="0.25" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 5/app/src/main/res/layout/itemsucursal.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
